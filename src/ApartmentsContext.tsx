@@ -61,17 +61,17 @@ export const ApartmentsContext = ({ children }: { children: React.ReactNode }) =
             img: [
                 {
                     "id": 0,
-                    "src": "../images/empty_image.png",
+                    "src": "./images/empty_image.png",
                     "alt": "apartments 1 Lviv"
                 },
                 {
                     "id": 1,
-                    "src": "../images/empty_image.png",
+                    "src": "./images/empty_image.png",
                     "alt": "apartments 1 Lviv"
                 },
                 {
                     "id": 2,
-                    "src": "../images/empty_image.png",
+                    "src": "./images/empty_image.png",
                     "alt": "apartments 1 Lviv"
                 },
             ],
