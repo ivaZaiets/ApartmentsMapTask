@@ -70,13 +70,13 @@ export const ApartmentsDetails: React.FC<Props> = ({ item }) => {
                         {item && favorites.includes(+item?.id) ? (
                             <img
                                 style={{ width: "12px" }}
-                                src="../../public/images/favorite_clicked.png"
+                                src="./images/favorite_clicked.png"
                                 alt="favorite clicked btn"
                             />
                         ) : (
                             <img
                                 style={{ width: "12px" }}
-                                src="../../public/images/favorite.png"
+                                src="./../../public/images/favorite.png"
                                 alt="favorite btn"
                             />
                         )}

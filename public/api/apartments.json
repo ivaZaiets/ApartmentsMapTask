@@ -11,17 +11,17 @@
             "img": [
                 {
                     "id": 0,
-                    "src": "../images/apartments_1/1.jpg",
+                    "src": "./../images/apartments_1/1.jpg",
                     "alt": "apartments 1 Lviv"
                 },
                 {
                     "id": 1,
-                    "src": "../images/apartments_1/2.jpg",
+                    "src": "./../images/apartments_1/2.jpg",
                     "alt": "apartments 1 Lviv"
                 },
                 {
                     "id": 2,
-                    "src": "../images/apartments_1/3.jpg",
+                    "src": "./../images/apartments_1/3.jpg",
                     "alt": "apartments 1 Lviv"
                 }
             ],
@@ -38,17 +38,17 @@
             "img": [
                 {
                     "id": 0,
-                    "src": "../images/apartments_2/1.png",
+                    "src": "./images/apartments_2/1.png",
                     "alt": "apartments 2 Lviv"
                 },
                 {
                     "id": 1,
-                    "src": "../images/apartments_2/2.jpg",
+                    "src": "./images/apartments_2/2.jpg",
                     "alt": "apartments 2 Lviv"
                 },
                 {
                     "id": 2,
-                    "src": "../images/apartments_2/3.jpg",
+                    "src": "./images/apartments_2/3.jpg",
                     "alt": "apartments 2 Lviv"
                 }
             ],
