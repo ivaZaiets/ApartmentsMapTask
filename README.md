@@ -1,30 +1,36 @@
-# React + TypeScript + Vite
+## All set goals have been achieved
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#### How can you use this app?
 
-Currently, two official plugins are available:
+* If you want `to add a new listing`, `use the 'Rent Out' button`  
+  and `click on the map` to add the property.  
+  `You cannot add a property without providing the required rental information`.  
+* `To view detailed information about the apartment`,  
+  `click on the icon on the map` or  
+  `on the apartment card` in the list on the right.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### additionally
+* Implemented `theme switching logic`
+* `Form validation` for filling out information  
+  about renting out apartments.
+* `Adaptability` on `all devices`
 
-## Expanding the ESLint configuration
+### Links
 
-If you are developing a production application, we recommend updating the configuration to enable type aware lint rules:
+[DEMO](https://ivazaiets.github.io/ApartmentsMapTask/)  
+[SOLUTION](https://github.com/ivaZaiets/ApartmentsMapTask)
 
-- Configure the top-level `parserOptions` property like this:
+### Built with
+* `React`
+* `TypeScript`
+* `SCSS (modules)`
+* `React`: `Context API` for `state`
 
-```js
-export default {
-  // other rules...
-  parserOptions: {
-    ecmaVersion: 'latest',
-    sourceType: 'module',
-    project: ['./tsconfig.json', './tsconfig.node.json'],
-    tsconfigRootDir: __dirname,
-  },
-}
-```
+### Project Highlights
+Project relies on `Node.js v16`.
 
-- Replace `plugin:@typescript-eslint/recommended` to `plugin:@typescript-eslint/recommended-type-checked` or `plugin:@typescript-eslint/strict-type-checked`
-- Optionally add `plugin:@typescript-eslint/stylistic-type-checked`
-- Install [eslint-plugin-react](https://github.com/jsx-eslint/eslint-plugin-react) and add `plugin:react/recommended` & `plugin:react/jsx-runtime` to the `extends` list
+### Author
+[GitHub](https://github.com/ivaZaiets)   
+[Telegram](https://t.me/swugre)  
+[LinkedIn](https://www.linkedin.com/in/ivanna-zaiets-6122532a0/)
+  
