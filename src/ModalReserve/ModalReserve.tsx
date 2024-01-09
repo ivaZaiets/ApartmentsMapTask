@@ -27,7 +27,7 @@ export const ModalReserve = () => {
                 >
                     <img
                         style={{ width: "12px" }}
-                        src="../../public/images/close_btn.png"
+                        src="./images/close_btn.png"
                         alt="close btn"
                     />
                 </button>
@@ -39,7 +39,7 @@ export const ModalReserve = () => {
                 <div className={styles.modal__details_wrapper_guests}>
                     <img
                         className={styles.modal__details_wrapper_guests_icon}
-                        src="../../public/images/bed_icon.png"
+                        src="./images/bed_icon.png"
                         alt="bed icon"
                     />
 

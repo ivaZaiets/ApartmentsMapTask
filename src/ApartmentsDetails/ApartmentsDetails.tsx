@@ -76,7 +76,7 @@ export const ApartmentsDetails: React.FC<Props> = ({ item }) => {
                         ) : (
                             <img
                                 style={{ width: "12px" }}
-                                src="./../../public/images/favorite.png"
+                                src="./images/favorite.png"
                                 alt="favorite btn"
                             />
                         )}
